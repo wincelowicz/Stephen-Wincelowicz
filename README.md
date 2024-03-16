@@ -3,9 +3,9 @@
 Howdy! 
 
 
-I am currently attending TripleTen bootcamp focusing on Business Intelligence Analysis. 
+I am a TripleTen Business intelligence analysis Graduate. 
 
-Currently learning: GoogleSheets, SQL, Tableau, and Power BI
+I am adept in GoogleSheets, SQL, Tableau, and Power BI
 
 I love working with data, creating aethetically pleasing data visualisations that are informative and pleasant to work with. 
 
